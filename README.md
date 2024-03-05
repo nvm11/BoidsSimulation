@@ -19,12 +19,14 @@
 
 -Click: Places an octagon at the mouse's position and removes the last one in the data structure to keep a finite number of obstacles on the screen.
 
-##Large Arrow
+### Autonomous Agent Descriptions
+
+## Large Arrow
 
 Seeks the nearest large arrow not in the "infected" (seeker) state
 Avoids Hexagons and large arrows (if not seeker state)
 
-###Seeker
+### Seeker
 
 **Seek Large Arrows**: Seek the nearest large arrow to add to the flock size
 
