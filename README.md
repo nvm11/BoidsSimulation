@@ -75,7 +75,7 @@ Seeks the nearest large arrow and becomes apart of its flock when in a certain r
    
 ### Flee
 
-**Flee from large arrows:**Separate from large arrows
+**Flee from large arrows:** Separate from large arrows
 
 #### Steering Behaviors
 
