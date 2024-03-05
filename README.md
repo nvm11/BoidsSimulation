@@ -12,7 +12,7 @@
 - C#
 
 ## Resources
-- [https://natureofcode.com/](The Nature of Code - Daniel Shiffman)
+- [https://natureofcode.com/] (The Nature of Code - Daniel Shiffman)
 - IGME 202 LEctures
 
 ### Controls
