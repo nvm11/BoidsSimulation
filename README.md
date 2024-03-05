@@ -1,4 +1,4 @@
-# NVM 202 Proj 2
+# Boids Simulation - NVM
 
 ### Student Info
 
