@@ -55,7 +55,7 @@ Avoids Hexagons and large arrows (if not seeker state)
 
 - All large arrows have become seekers
 
-##Small arrows
+## Small arrows
 
 Seeks the nearest large arrow and becomes apart of its flock when in a certain range
 
