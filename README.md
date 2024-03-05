@@ -13,7 +13,7 @@
 
 ## Resources
 - [The Nature of Code - Daniel Shiffman](https://natureofcode.com/) 
-- IGME 202 LEctures
+- IGME 202 Lectures
 
 ### Controls
 
