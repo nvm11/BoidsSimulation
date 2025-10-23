@@ -1,11 +1,4 @@
-# Boids Simulation - NVM
-
-### Student Info
-
--   Name: Nathan McAndrew
--   Second Year
-
-# Simulation Information
+# Boids Simulation
 
 ### Technologies Used
 - Unity
